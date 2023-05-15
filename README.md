@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juice28PT
 - 👀 I’m interested in working with a team
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning GuideWire
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me jcfnramos@gmail.com
 
